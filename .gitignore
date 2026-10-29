@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+launchSettings.json.bak
+
+# Frontend
+node_modules/
+dist/
+*.local
+
+# Секреты и окружение
+.env
+.env.*
+!.env.example
+appsettings.Production.json
+
+# IDE / ОС
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+*.log
