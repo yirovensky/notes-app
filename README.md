@@ -4,10 +4,10 @@
 
 Pet-проект: ASP.NET Core Web API + React + TypeScript.
 
-![Страница авторизации](image.png)
-![Страница регистрации](image-1.png)
-![Основная страница](image-2.png)
-![Настройки профиля](image-4.png)
+![Страница авторизации](docs/login.png)
+![Страница регистрации](docs/register.png)
+![Основная страница](docs/notes.png)
+![Настройки профиля](docs/profile.png)
 
 ## Возможности
 
